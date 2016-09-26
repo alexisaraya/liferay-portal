@@ -623,6 +623,21 @@ insert into Region (regionId, countryId, regionCode, name, active_) values (2020
 insert into Region (regionId, countryId, regionCode, name, active_) values (202024, 202, 'VD', 'Vaud', TRUE);
 insert into Region (regionId, countryId, regionCode, name, active_) values (202025, 202, 'ZG', 'Zug', TRUE);
 insert into Region (regionId, countryId, regionCode, name, active_) values (202026, 202, 'ZH', 'Zürich', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203015, 61, '15','Arica y Parinacota',TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203001, 61, '1', 'Tarapacá', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203002, 61, '2', 'Antofagasta', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203003, 61, '3', 'Atacama', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203004, 61, '4', 'Coquimbo', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203005, 61, '5', 'Valparaíso', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203013, 61, '13','Metropolitana de Santiago', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203006, 61, '6', 'O''Higgins', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203007, 61, '7', 'Maule', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203008, 61, '8', 'Bío-Bío', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203009, 61, '9', 'La Araucanía', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203014, 61, '14', 'Los Ríos', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203010, 61, '10', 'Los Lagos', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203011, 61, '11', 'Aysén', TRUE);
+insert into Region (regionId, countryId, regionCode, name, active_) values (203012, 61, '12', 'Magallanes', TRUE);
 
 ##
 ## List types for accounts
